@@ -84,8 +84,7 @@
 ## 联系我们
 
 - 电子邮箱：buding0401@126.com
-- 技术支持：400-123-4567
-
+- 技术支持：010-8158-0415
 ## 版权信息
 
 © 2025 RickyTech™️ 保留所有权利
@@ -181,7 +180,7 @@ Communication protocol with ESP32 device:
 ## Contact Us
 
 - Email: buding0401@126.com
-- Technical Support: 400-123-4567
+- Technical Support: 010-8158-0415
 
 ## Copyright Information
 
