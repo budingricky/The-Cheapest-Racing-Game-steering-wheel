@@ -126,8 +126,8 @@ A fully functional force feedback control system that supports serial communicat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rickytech-force-feedback.git
-   cd rickytech-force-feedback
+   git clone https://github.com/budingricky/The-Cheapest-Racing-Game-steering-wheel.git
+   cd The-Cheapest-Racing-Game-steering-wheel
    ```
 
 2. Install dependencies:
@@ -137,7 +137,7 @@ A fully functional force feedback control system that supports serial communicat
 
 3. Run the application:
    ```bash
-   python main.py
+   python first.py
    ```
 
 ### User Guide
