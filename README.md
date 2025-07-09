@@ -29,8 +29,8 @@
 
 1. 克隆本仓库：
    ```bash
-   git clone https://github.com/yourusername/rickytech-force-feedback.git
-   cd rickytech-force-feedback
+   git clone https://github.com/budingricky/The-Cheapest-Racing-Game-steering-wheel.git
+   cd The-Cheapest-Racing-Game-steering-wheel
    ```
 
 2. 安装依赖：
@@ -40,7 +40,7 @@
 
 3. 运行程序：
    ```bash
-   python main.py
+   python first.py
    ```
 
 ### 使用指南
